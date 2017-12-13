@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/gsmithwasalreadytaken/SmithWissehFinalProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luccs271course/Lab10Grant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Java" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Java/Lab15" />
   </component>
 </application>

@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/luccs271course/Lab10Grant.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luccs271course/Lab1OGrant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Java/Lab15" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Java/Lab1O" />
   </component>
 </application>
